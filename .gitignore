@@ -1,0 +1,14 @@
+*.o
+*.a
+auth
+transactions
+bid_sell
+auctions
+.DS_Store
+.vscode/settings.json
+node_modules/
+dist/
+build/
+*.log
+.env
+db_credentials.txt
